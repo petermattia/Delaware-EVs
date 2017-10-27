@@ -1,0 +1,516 @@
+Award_Number,Rebate_Amount,City,State,County,Zip,Age,Gender,Date_of_Purchase,Dealership,Vehicle_Type,Make,Model,Year,Lease?,Gasoline_Emissions,Alt-Fuel_Emissions
+CVR071501,$2200.00,Hockessin,DE,New Castle,19707,81.0,M,2015-07-20,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,No,14815.0,6575.0
+CVR071502,$2200.00,Wilmington,DE,New Castle,19809,47.0,M,2015-07-20,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR071503,$2200.00,Wilmington,DE,New Castle,19810,47.0,M,2015-07-22,Darcars of Lanham Severn. Inc. ,Electric,Ford,Focus Electric,2015,Yes,14815.0,5539.0
+CVR071504,$2200.00,Wilmington,DE,New Castle,19808,66.0,M,2015-07-20,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR071505,$2200.00,New Castle,DE,New Castle,19720,51.0,M,2015-07-24,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR071506,$2200.00,Milton,DE,Sussex,19968,78.0,M,2015-07-24,Nucar Lewes Automall,Plug-in Hybrid,Chevrolet,Volt,2015,No,14815.0,6575.0
+CVR081507,$2200.00,Magnolia,DE,Kent,19962,51.0,F,2015-07-31,Willis Ford ,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR081508,$2200.00,Wilmington,DE,New Castle,19810,47.0,M,2015-08-06,Nucar Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2015,Yes,14815.0,6575.0
+CVR081509,$2200.00,Dover,DE,Kent,19904,62.0,M,2015-07-31,Willis Ford ,Plug-in Hybrid,Ford,C-Max Energi,2015,No,14815.0,6575.0
+CVR081510,$2200.00,Newark,DE,New Castle,19711,72.0,M,2015-07-31,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR081513,$2200.00,Wilmington,DE,New Castle,19810,51.0,F,2015-07-25,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR081514,$2200.00,Newark,DE,New Castle,19711,40.0,F,2015-07-30,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR081515,$2200.00,Clayton,DE,Kent,19938,52.0,F,2015-07-28,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR081516,$2200.00,Wilmington,DE,New Castle,19805,45.0,F,2015-07-20,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,No,14815.0,6575.0
+CVR081517,$2200.00,Camden Wyoming,DE,Kent,19934,62.0,M,2015-08-16,Koon's of Silver Springs,Plug-in Hybrid,Ford,C-Max Energi,2015,No,14815.0,6575.0
+CVR081518,$2200.00,Wilmington,DE,New Castle,19803,26.0,M,2015-07-17,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2014,No,14815.0,6575.0
+CVR081519,$2200.00,Newark,DE,New Castle,19713,41.0,M,2015-07-31,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR081520,$2200.00,Townsend,DE,New Castle,19734,39.0,M,2015-07-21,Willis Ford ,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR081521,$2200.00,Millsboro,DE,Sussex,19966,41.0,M,2015-08-22,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR081522,$2200.00,Wilmington,DE,New Castle,19805,59.0,F,2015-07-22,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2015,No,14815.0,6575.0
+CVR081523,$2200.00,Middletown,DE,New Castle,19709,35.0,M,2015-08-08,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR081524,$2200.00,Rehoboth Beach,DE,Sussex,19971,73.0,M,2015-08-06,Sheridan Ford,Electric,Ford,Focus Electric,2015,No,14815.0,5539.0
+CVR081525,$2200.00,Newark,DE,New Castle,19711,41.0,M,2015-07-30,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR081526,$2200.00,Newark,DE,New Castle,19711,57.0,F,2015-08-11,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR081527,$2200.00,Middletown,DE,New Castle,19709,38.0,M,2015-08-08,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR081528,$2200.00,Wilmington,DE,New Castle,19808,46.0,M,2015-08-13,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR091529,$2200.00,Seaford,DE,Sussex,19973,59.0,F,2015-07-18,Pohanka Nissan,Electric,Nissan,Leaf,2015,No,14815.0,5539.0
+CVR091530,$2200.00,Newark,DE,New Castle,19711,43.0,M,2015-08-22,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR091531,$2200.00,Millsboro,DE,Sussex,19966,25.0,F,2015-09-08,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR091532,$2200.00,Wilmington,DE,New Castle,19807,50.0,M,2015-08-28,BMW of Reading,Electric,BMW,i3,2015,Yes,14815.0,5539.0
+CVR091533,$2200.00,Newark,DE,New Castle,19711,42.0,F,2015-09-19,Nucar Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2015,No,14815.0,6575.0
+CVR101534,$2200.00,Millsboro,DE,Sussex,19966,27.0,M,2015-09-12,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,No,14815.0,6575.0
+CVR101535,$2200.00,Wilmington,DE,New Castle,19805,58.0,M,2015-09-10,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR101536,$2200.00,Newark,DE,New Castle,19713,57.0,M,2015-09-15,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR101537,$2200.00,Newark,DE,New Castle,19702,24.0,F,2015-10-12,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR101538,$2200.00,Dover,DE,Kent,19904,71.0,F,2015-10-06,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR101539,$2200.00,Hartly,DE,Kent,19953,45.0,M,2015-09-22,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR101540,$2200.00,Dover,DE,Kent,19904,44.0,F,2015-10-05,I.G. Burton BMW,Plug-in Hybrid,BMW,X5 40E,2016,No,14815.0,6575.0
+CVR101541,$2200.00,Townsend,DE,New Castle,19734,29.0,F,2015-08-12,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR101542,$2200.00,Middletown,DE,New Castle,19709,41.0,F,2015-10-19,Preston Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,No,14815.0,6575.0
+CVR101543,$2200.00,Newark,DE,New Castle,19702,54.0,M,2015-10-12,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR101544,$2000.00,Wilmington,DE,New Castle,19803,47.0,M,2015-09-30,Sheridan Nissan,Electric,Nissan,Leaf,2015,No,14815.0,5539.0
+CVR101545,$2200.00,Middletown,DE,New Castle,19709,46.0,M,2015-10-24,BMW of Catonsville ,Electric,BMW,i3,2015,No,14815.0,5539.0
+CVR111546,$2200.00,Selbyville,DE,Sussex,19975,75.0,M,2015-09-30,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR111547,$2200.00,Millsboro,DE,Sussex,19966,37.0,F,2015-08-06,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR111548,$2200.00,Wilmington,DE,New Castle,19804,31.0,F,2015-10-16,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR111549,$2200.00,Wilmington,DE,New Castle,19810,31.0,M,2015-11-01,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR111550,$2200.00,Greenwood,DE,Sussex,19950,50.0,F,2015-10-30,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR111551,$2200.00,Smyrna,DE,Kent,19977,71.0,M,2015-11-09,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR111552,$2200.00,Middletown,DE,New Castle,19709,27.0,F,2015-11-10,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR111553,$2200.00,Dover,DE,Kent,19901,31.0,M,2015-09-30,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR111554,$2200.00,Camden,DE,Kent,19934,65.0,F,2015-11-12,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR111555,$2200.00,Lewes,DE,Sussex,19958,36.0,F,2015-11-13,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR111556,$2200.00,Millsboro,DE,Sussex,19966,63.0,F,2015-11-02,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR111557,$2200.00,Wilmington,DE,New Castle,19803,54.0,M,2015-11-17,Lafferty Chevrolet Co. ,Plug-in Hybrid,Chevrolet,Volt,2014,No,14815.0,6575.0
+CVR111558,$2200.00,Wilmington,DE,New Castle,19803,66.0,M,2015-09-29,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR121559,$2200.00,Newark,DE,New Castle,19711,58.0,F,2015-11-21,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR121560,$2200.00,Bear,DE,New Castle,19701,50.0,M,2015-11-30,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR121561,$2200.00,Newark,DE,New Castle,19713,31.0,M,2015-11-20,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR121562,$2200.00,New Castle,DE,New Castle,19720,49.0,F,2015-11-29,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR121563,$2200.00,Bridgeville,DE,Sussex,19933,55.0,F,2015-12-03,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR121564,$2200.00,Wilmington,DE,New Castle,19805,37.0,M,2015-12-14,Criswell Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2016,No,14815.0,6575.0
+CVR121565,$2200.00,Wilmington,DE,New Castle,19803,65.0,M,2014-11-27,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2014,No,14815.0,6575.0
+CVR121566,$2200.00,Wilmington,DE,New Castle,19810,60.0,M,2015-12-09,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2015,No,14815.0,6575.0
+CVR121567,$2200.00,New Castle,DE,New Castle,19720,55.0,M,2015-11-30,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2015,No,14815.0,6575.0
+CVR121568,$2200.00,Wilmington,DE,New Castle,19807,51.0,M,2015-12-14,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2015,No,14815.0,6575.0
+CVR121569,$2200.00,Dover,DE,Kent,19901,34.0,M,2015-09-23,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR121570,$2200.00,Bellefonte,DE,New Castle,19809,54.0,M,2015-11-09,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR121571,$2200.00,Wilmington,DE,New Castle,19807,52.0,F,2015-12-14,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR121572,$2200.00,Wilmington,DE,New Castle,19803,31.0,M,2015-12-17,Otto's BMW,Electric,BMW,i3,2015,Yes,14815.0,5539.0
+CVR121573,$2200.00,Millsboro,DE,Sussex,19966,62.0,M,2015-11-06,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR121574,$2200.00,Milford,DE,Kent,19963,51.0,M,2015-12-16,I.G. Burton BMW,Plug-in Hybrid,BMW,X5 40E,2016,Yes,14815.0,6575.0
+CVR011675,$2200.00,Milton,DE,Sussex,19968,47.0,M,2015-11-30,Bical Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2016,No,14815.0,6575.0
+CVR011676,$2200.00,Talleyville,DE,New Castle,19803,70.0,M,2015-12-08,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR011677,$2200.00,Newark,DE,New Castle,19702,36.0,F,2015-12-28,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR011678,$2200.00,New Castle,DE,New Castle,19804,50.0,F,2015-12-29,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR011679,$2200.00,Hockessin,DE,New Castle,19707,76.0,M,2015-12-31,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR011680,$2200.00,Newark,DE,New Castle,19702,60.0,M,2015-11-14,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR011681,$2200.00,Newark,DE,New Castle,19711,47.0,F,2016-01-04,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR011682,$2200.00,Rockland,DE,New Castle,19732,40.0,M,2015-12-07,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR011683,$2200.00,Wilmington,DE,New Castle,19803,44.0,M,2016-01-09,RK Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2016,No,14815.0,6575.0
+CVR011684,$2200.00,Wilmington,DE,New Castle,19804,54.0,M,2016-01-20,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR011685,$2200.00,Wilmington,DE,New Castle,19810,30.0,M,2016-01-04,Otto's BMW,Electric,BMW,i3,2015,Yes,14815.0,5539.0
+CVR021686,$2200.00,Middletown,DE,New Castle,19709,57.0,M,2016-01-28,Willis Chevrolet Buick,Plug-in Hybrid,Chevrolet,Volt,2016,No,14815.0,6575.0
+CVR021687,$2200.00,Newark,DE,New Castle,19702,43.0,M,2016-01-19,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR021688,$2200.00,Georgetown,DE,New Castle,19947,29.0,M,2016-02-01,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,No,14815.0,6575.0
+CVR021689,$2200.00,Frankford,DE,Sussex,19945,74.0,M,2016-02-17,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR021690,$2200.00,Lewes,DE,Sussex,19958,28.0,M,2015-10-07,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,No,14815.0,6575.0
+CVR021691,$2200.00,Wilmington,DE,New Castle,19810,59.0,M,2015-12-19,Courtesy of Salisbury,Plug-in Hybrid,Cadillac,ELR,2014,No,14815.0,6575.0
+CVR021692,$2200.00,Wilmington,DE,New Castle,19805,60.0,M,2016-02-15,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR021693,$2200.00,Wilmington,DE,New Castle,19808,57.0,M,2016-02-20,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR021694,$2200.00,Wilmington,DE,New Castle,19807,50.0,M,2016-02-19,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR021695,$2200.00,Dover,DE,Kent,19904,50.0,M,2016-12-31,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR021696,$2200.00,Millsboro,DE,Sussex,19966,30.0,M,2016-02-27,I.G. Burton BMW,Plug-in Hybrid,BMW,X5 40E,2016,Yes,14815.0,6575.0
+CVR031697,$2200.00,Bear,DE,New Castle,19701,27.0,M,2015-09-30,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR031698,$2200.00,Dover,DE,Kent,19901,36.0,F,2016-03-04,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR031699,$2200.00,Dover,DE,Kent,19904,53.0,F,2016-03-07,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR0316100,$2200.00,Camden Wyoming,DE,Kent,19934,71.0,M,2016-03-10,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0316101,$2200.00,Dover,DE,Kent,19904,53.0,M,2016-03-15,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,Yes,14815.0,6575.0
+CVR0316102,$2200.00,Milford,DE,Kent,19963,41.0,F,2016-03-17,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0316103,$2200.00,Clayton,DE,Kent,19938,52.0,M,2015-09-23,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,No,14815.0,6575.0
+CVR0316104,$2200.00,Selbyville,DE,Sussex,19975,33.0,M,2016-03-18,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0316105,$2200.00,Newark,DE,New Castle,19711,53.0,F,2015-09-28,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR0416106,$2200.00,Ocean View,DE,Sussex,19970,73.0,M,2016-04-04,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0416107,$2200.00,Wilmington,DE,New Castle,19807,49.0,M,2016-02-10,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR0416108,$2200.00,Wilmington,DE,New Castle,19802,56.0,F,2016-03-28,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0416109,$2200.00,New Castle,DE,New Castle,19702,61.0,F,2016-04-01,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0416110,$2200.00,Wilmington,DE,New Castle,19807,71.0,F,2016-03-28,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0416111,$2200.00,Milton,DE,Sussex,19968,55.0,M,2016-04-12,I.G. Burton Lewes Automall,Plug-in Hybrid,Chevrolet,Volt,2017,Yes,14815.0,6575.0
+CVR0416112,$2200.00,Newark,DE,New Castle,19711,59.0,F,2016-04-11,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0416113,$2200.00,Millsboro,DE,Sussex,19966,,F,2016-03-31,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2015,Yes,14815.0,6575.0
+CVR0416114,$2200.00,Wilmington,DE,New Castle,19805,68.0,F,2016-04-14,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0416115,$2200.00,Middletown,DE,New Castle,19709,47.0,F,2016-04-09,Williams Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR0416116,$2200.00,Newark,DE,New Castle,19702,56.0,F,2016-02-22,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0416117,$2200.00,Townsend,DE,New Castle,19734,26.0,M,2016-04-23,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0416118,$2200.00,Newark,DE,New Castle,19711,47.0,M,2016-04-23,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0416119,$2200.00,New Castle,DE,New Castle,19720,38.0,M,2016-03-05,Bob Bell Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516120,$2200.00,Wilmington,DE,New Castle,19805,43.0,M,2016-04-23,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516121,$2200.00,Dover,DE,Kent,19904,51.0,F,2016-04-19,I.G. Burton BMW,Plug-in Hybrid,BMW,330e,2016,No,14815.0,6575.0
+CVR0516122,$2200.00,Wilmington,DE,New Castle,19803,47.0,M,2015-12-26,Concordville Nissan Subaru,Electric,Nissan,Leaf,2015,No,14815.0,5539.0
+CVR0516123,$2200.00,Middletown,DE,New Castle,19709,46.0,M,2016-03-06,BMW of Bayside,Electric,BMW,i3,2014,No,14815.0,5539.0
+CVR0516124,$2200.00,Clayton,DE,Kent,19938,38.0,M,2016-04-30,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516125,$2200.00,Bear,DE,New Castle,19701,59.0,F,2016-03-30,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0516126,$2200.00,Milton,DE,Sussex,19968,80.0,F,2016-04-30,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516127,$2200.00,Newark,DE,New Castle,19713,20.0,M,2016-04-30,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516128,$2200.00,Newark,DE,New Castle,19711,46.0,F,2016-04-23,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0516129,$2200.00,Wilmington,DE,New Castle,19804,42.0,M,2016-04-29,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0516130,$2200.00,New Castle,DE,New Castle,19720,40.0,F,2016-04-27,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516131,$2200.00,Wilmington,DE,New Castle,19807,25.0,F,2016-02-22,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR0516132,$2200.00,Wilmington,DE,New Castle,19807,77.0,M,2016-05-11,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0516133,$2200.00,Wilmington,DE,New Castle,19804,56.0,M,2016-04-18,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516134,$2200.00,Wilmington,DE,New Castle,19808,49.0,F,2016-05-19,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516135,$2200.00,Newark,DE,New Castle,19713,67.0,M,2016-04-25,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516136,$2200.00,New Castle,DE,New Castle,19720,66.0,M,2016-04-25,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516137,$2200.00,Wilmington,DE,New Castle,19805,66.0,F,2016-05-03,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0516138,$2200.00,Wilmington,DE,New Castle,19808,34.0,M,2016-05-02,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0516139,$2200.00,Dagsboro,DE,Sussex,19939,68.0,M,2016-05-23,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0516140,$2200.00,Seaford,DE,Sussex,19973,49.0,M,2016-05-24,Preston Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0616141,$2200.00,Wilmington,DE,New Castle,19810,22.0,F,2016-04-16,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0616142,$2200.00,Millsboro,DE,Sussex,19966,70.0,F,2016-05-23,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0616143,$2200.00,Magnolia,DE,Kent,19962,62.0,F,2016-05-17,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR0616144,$2200.00,Smyrna,DE,Kent,19977,72.0,M,2016-06-06,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0616145,$2200.00,Wilmington,DE,New Castle,19805,48.0,F,2016-05-18,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0616146,$2200.00,Milton,DE,Sussex,19968,81.0,M,2016-05-28,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0616152,$2200.00,Claymont,DE,New Castle,19703,70.0,M,2016-05-09,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0616153,$2200.00,Wilmington,DE,New Castle,19808,,M,2016-06-09,Porter Nissan,Electric,Nissan,Leaf,2015,Yes,14815.0,5539.0
+CVR0616154,$2200.00,Bear,DE,New Castle,19701,44.0,M,2016-04-27,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0616155,$2200.00,Dover,DE,Kent,19901,41.0,M,2016-06-11,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0616156,$2200.00,Magnolia,DE,Kent,19962,26.0,M,2016-06-15,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0616157,$2200.00,Middletown,DE,New Castle,19709,33.0,F,2016-06-17,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0616158,$2200.00,Lewes,DE,Sussex,19958,,,2015-11-27,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR0616159,$2200.00,Lewes,DE,Sussex,19958,,,2015-11-30,Tesla Motors,Electric,Tesla,Model S,2015,No,14815.0,5539.0
+CVR0616160,$2200.00,Townsend,DE,New Castle,19734,80.0,F,2016-06-21,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0616161,$2200.00,Wilmington,DE,New Castle,19806,42.0,M,2016-06-17,Audi Wilmington,Plug-in Hybrid,Audi,A3 Sportback e-tron,2016,No,14815.0,6575.0
+CVR0616162,$2200.00,Lewes,DE,Sussex,19958,75.0,M,2016-04-04,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0616163,$2200.00,Wilmington,DE,New Castle,19804,61.0,F,2016-05-23,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0616164,$2200.00,Lewes,DE,Sussex,19958,38.0,F,2016-04-18,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0716165,$2200.00,Middletown,DE,New Castle,19709,44.0,F,2016-06-28,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0716166,$2200.00,Wilmington,DE,New Castle,19810,65.0,F,2016-06-20,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0716167,$2200.00,Millsboro,DE,Sussex,19966,58.0,F,2016-06-30,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0716168,$2200.00,Newark,DE,New Castle,19711,71.0,M,2016-07-02,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR0716169,$2200.00,Marshallton,DE,New Castle,19808,59.0,F,2016-06-25,Audi Wilmington,Plug-in Hybrid,Audi,A3 Sportback e-tron,2016,No,14815.0,6575.0
+CVR0716170,$2200.00,Millsboro,DE,Sussex,19966,,M,2016-07-11,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0716171,$2200.00,Wilmington,DE,New Castle,19810,64.0,M,2016-07-02,Sheridan Nissan,Electric,Nissan,Leaf,2016,No,14815.0,5539.0
+CVR0716172,$2200.00,Montchanin,DE,New Castle,19710,56.0,F,2016-06-21,Sheridan Nissan,Electric,Nissan,Leaf,2016,No,14815.0,5539.0
+CVR0716173,$2200.00,Wilmington,DE,New Castle,19807,50.0,F,2016-06-20,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR0716174,$2200.00,Bridgeville,DE,Sussex,19933,60.0,F,2016-07-14,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,14815.0,6575.0
+CVR0716175,$2200.00,Rehoboth Beach,DE,Sussex,19971,67.0,F,2016-06-30,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,No,14815.0,6575.0
+CVR0716176,$2200.00,Middletown,DE,New Castle,19709,40.0,M,2016-06-10,Williams Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR0716177,$2200.00,Wilmington,DE,New Castle,19803,40.0,M,2016-07-09,Patriot Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2016,No,14815.0,6575.0
+CVR0716178,$2200.00,Rehoboth Beach,DE,Sussex,19971,60.0,M,2016-06-18,Mercedes Benz of Annapolis,Plug-in Hybrid,Mercedes-Benz,B250e,2016,Yes,14815.0,6575.0
+CVR0716179,$2200.00,Millsboro,DE,Sussex,19966,44.0,F,2016-07-12,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0716180,$2200.00,Newark,DE,New Castle,19711,31.0,M,2016-06-27,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR0716181,$2200.00,Bear,DE,New Castle,19701,53.0,M,2016-07-16,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR0716182,$2200.00,Smyrna,DE,Kent,19977,37.0,F,2016-07-22,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,14815.0,6575.0
+CVR0816183,$2200.00,Rehoboth Beach,DE,Sussex,19971,69.0,M,2016-06-13,Union Park Automotive Group,Plug-in Hybrid,Volvo,XC90,2016,No,14815.0,6575.0
+CVR0816184,$2200.00,Townsend,DE,New Castle,19734,28.0,M,2016-06-11,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0816185,$2200.00,Clayton,DE,New Castle,19938,73.0,M,2016-07-23,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0816186,$2200.00,Claymont,DE,New Castle,19703,62.0,M,2016-07-16,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0816187,$2200.00,Seaford,DE,Sussex,19973,82.0,M,2016-06-30,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0816188,$2200.00,New Castle,DE,New Castle,19720,33.0,F,2016-07-29,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,14815.0,6575.0
+CVR0816189,$2200.00,Seaford,DE,Sussex,19973,48.0,F,2016-07-30,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0816190,$2200.00,Lewes,DE,Sussex,19958,66.0,M,2016-07-28,I.G. Burton BMW,Plug-in Hybrid,BMW,X5 40E,2016,No,14815.0,6575.0
+CVR0816191,$2200.00,Newark,DE,New Castle,19711,25.0,F,2016-06-13,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0816192,$2200.00,Wilmington,DE,New Castle,19806,71.0,M,2016-08-01,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0816193,$2200.00,Milton,DE,Sussex,19968,66.0,M,2016-07-22,Nucars Lewes Automall,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR0816194,$2200.00,Rehoboth Beach,DE,Sussex,19971,62.0,F,2016-05-06,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0816195,$2200.00,Wilmington,DE,New Castle,19808,60.0,F,2016-07-12,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0816196,$2200.00,Smyrna,DE,Kent,19977,50.0,M,2016-08-05,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0816197,$2200.00,Lewes,DE,New Castle,19958,70.0,M,2016-07-01,Norris Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,No,14815.0,6575.0
+CVR0816198,$2200.00,Milton,DE,Sussex,19968,,M,2016-08-05,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0816199,$2200.00,Lewes,DE,Sussex,19958,63.0,F,2016-04-15,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0816200,$2200.00,Wilmington,DE,New Castle,19807,79.0,M,2017-08-06,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0816201,$2200.00,Middletown,DE,New Castle,19709,34.0,M,2016-06-24,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0816202,$2200.00,Hockessin,DE,New Castle,19707,50.0,M,2016-08-16,Nucar Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,Yes,14815.0,6575.0
+CVR0816203,$2200.00,Newark,DE,New Castle,19713,25.0,M,2016-07-30,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0816204,$2200.00,Bear,DE,New Castle,19701,58.0,M,2016-08-18,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,14815.0,6575.0
+CVR0816205,$2200.00,Wilmington,DE,New Castle,19810,41.0,M,2016-08-13,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR0816206,$2200.00,Lewes,DE,Sussex,19958,67.0,M,2016-08-13,Preston Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,No,14815.0,6575.0
+CVR0816207,$2200.00,Middletown,DE,New Castle,19709,61.0,M,2016-06-09,Williams Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR0816208,$2200.00,Wilmington,DE,New Castle,19808,76.0,F,2016-08-13,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,No,14815.0,6575.0
+CVR0816209,$2200.00,Newark,DE,New Castle,19711,56.0,M,2016-08-20,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2015,No,14815.0,6575.0
+CVR0816210,$2200.00,Dover,DE,Kent,19901,34.0,F,2016-08-25,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0916211,$2200.00,Newark,DE,New Castle,19711,64.0,F,2016-08-19,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0916212,$2200.00,Wilmington,DE,New Castle,19808,29.0,M,2016-08-06,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0916213,$2200.00,Wilmington,DE,New Castle,19802,63.0,M,2016-08-16,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0916214,$2200.00,Milford,DE,Sussex,19963,37.0,M,2016-08-31,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,No,14815.0,6575.0
+CVR0916215,$2200.00,Middletown,DE,New Castle,19709,64.0,M,2016-08-15,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0916216,$2200.00,Wilmington,DE,New Castle,19806,85.0,M,2016-08-15,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0916217,$2200.00,Millsboro,DE,Sussex,19966,73.0,M,2016-05-20,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0916218,$2200.00,Wilmington,DE,New Castle,19810,37.0,F,2016-07-17,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR0916219,$2200.00,Newark,DE,New Castle,19702,54.0,M,2016-09-03,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0916220,$2200.00,Wilmington,DE,New Castle,19808,65.0,M,2016-09-03,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,6575.0
+CVR0916221,$2200.00,Smyrna,DE,Kent,19977,70.0,M,2016-09-07,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0916222,$2200.00,Delmar,DE,Sussex,19940,46.0,F,2016-08-28,Ourisman Chevrolet of Bowie,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR0916223,$2200.00,Dover,DE,Kent,19901,45.0,M,2016-09-10,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR0916224,$2200.00,Newark,DE,New Castle,19702,33.0,F,2016-08-28,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0916225,$2200.00,Lewes,DE,Sussex,19958,52.0,M,2016-08-31,I.G. Burton BMW,Plug-in Hybrid,BMW,330e,2016,No,14815.0,6575.0
+CVR0916226,$2200.00,Wilmington,DE,New Castle,19809,59.0,F,2016-08-27,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,No,14815.0,6575.0
+CVR0916227,$2200.00,Wilmington,DE,New Castle,19807,60.0,M,2016-05-10,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0916228,$2200.00,Elsmere,DE,New Castle,19805,27.0,F,2016-08-10,Thomas Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR0916229,$2200.00,Newark,DE,New Castle,19711,69.0,M,2016-09-05,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0916230,$2200.00,Hockessin,DE,New Castle,19707,65.0,M,2016-09-05,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0916231,$2200.00,Newark,DE,New Castle,19711,54.0,F,2016-09-03,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,No,14815.0,6575.0
+CVR0916232,$2200.00,Hockessin,DE,New Castle,19707,71.0,M,2016-09-20,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,No,14815.0,6575.0
+CVR0916233,$2200.00,Wilmington,DE,New Castle,19804,58.0,M,2016-08-31,Springfield Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR0916234,$2200.00,Newark,DE,New Castle,19702,60.0,M,2016-09-24,Norris Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,No,14815.0,6575.0
+CVR0916235,$2200.00,Townsend,DE,New Castle,19734,58.0,M,2016-09-23,Willis Chevrolet Buick,Plug-in Hybrid,Chevrolet,Volt,2017,Yes,14815.0,6575.0
+CVR1016236,$2200.00,Wilmington,DE,New Castle,19808,63.0,M,2016-09-27,Porter Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1016237,$2200.00,Wilmington,DE,New Castle,19808,35.0,M,2016-10-01,Porter Nissan,Electric,Nissan,Leaf,2016,No,14815.0,5539.0
+CVR1016238,$2200.00,Greenwood,DE,Sussex,19956,31.0,M,2015-10-28,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR1016239,$2200.00,Wilmington,DE,New Castle,19802,58.0,F,2016-09-22,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR1016240,$2200.00,Bethany Beach,DE,Sussex,19930,26.0,M,2016-06-30,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1016241,$2200.00,Wilmington,DE,New Castle,19807,52.0,M,2016-09-30,Audi Wilmington,Plug-in Hybrid,Audi,A3 Sportback e-tron,2016,No,14815.0,6575.0
+CVR1016242,$2200.00,Dover,DE,Kent,19901,45.0,M,2016-09-30,"Koons of Tysons, Inc. ",Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1016243,$2200.00,Smyrna,DE,Kent,19977,,,2016-10-03,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,No,14815.0,6575.0
+CVR1016244,$2200.00,Wilmington,DE,New Castle,19803,61.0,M,2016-09-30,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1016245,$2200.00,Newark,DE,New Castle,19711,66.0,F,2016-09-29,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1016246,$2200.00,Hockessin,DE,New Castle,19707,64.0,M,2016-09-24,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR1016247,$2200.00,Wilmington,DE,New Castle,19803,42.0,M,2016-09-12,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR1016248,$2200.00,Lewes,DE,Sussex,19958,83.0,M,2016-09-09,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR1016249,$2200.00,Wilmington,DE,New Castle,19808,78.0,F,2016-09-09,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR1016250,$2200.00,Newark,DE,New Castle,19711,50.0,M,2016-09-28,Sheridan Nissan,Electric,Nissan,Leaf,2016,Yes,14815.0,5539.0
+CVR1016251,$2200.00,Wilmington,DE,New Castle,19805,61.0,M,2016-10-05,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR1016252,$2200.00,Lincoln,DE,Sussex,19960,68.0,F,2016-10-07,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,No,14815.0,6575.0
+CVR1016253,$2200.00,Clayton,DE,Kent,19938,38.0,F,2016-10-10,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2016,Yes,14815.0,6575.0
+CVR1016254,$2200.00,Dover,DE,Kent,19904,58.0,M,2016-08-01,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1016255,$2200.00,Lewes,DE,Sussex,19958,33.0,M,2016-09-30,I.G. Burton BMW,Plug-in Hybrid,BMW,X5 40E,2016,No,14815.0,6575.0
+CVR1016256,$2200.00,Wilmington,DE,New Castle,19808,59.0,M,2016-09-30,Fairfield Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1016257,$2200.00,Wilmington,DE,New Castle,19808,81.0,M,2016-10-13,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,14815.0,6575.0
+CVR1016258,$2200.00,Newark,DE,New Castle,19713,64.0,F,2016-10-12,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR1016259,$2200.00,Dover,DE,Kent,19904,33.0,F,2016-10-10,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR1016260,$2200.00,Camden,DE,Kent,19934,56.0,M,2016-08-19,McDermott Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2015,No,14815.0,6575.0
+CVR1016261,$2200.00,Wilmington,DE,New Castle,19805,62.0,F,2016-10-04,Sheridan Nissan,Electric,Nissan,Leaf,2016,Yes,14815.0,5539.0
+CVR1016262,$2200.00,Millsboro,DE,Sussex,19966,65.0,M,2016-10-08,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR1016263,$2200.00,Milford,DE,Sussex,19963,80.0,M,2016-10-12,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,14815.0,6575.0
+CVR1016264,$2200.00,Middletown,DE,New Castle,19709,44.0,M,2016-09-17,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR1016265,$2200.00,Middletown,DE,New Castle,19709,70.0,M,2016-06-30,Willis Chevrolet Buick,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1016266,$2200.00,Newark,DE,New Castle,19702,73.0,M,2016-10-22,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR1116267,$2200.00,Wilmington,DE,New Castle,19810,41.0,M,2016-10-22,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR1116268,$2200.00,Hockessin,DE,New Castle,19707,53.0,F,2016-10-26,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1116269,$2200.00,Newark,DE,New Castle,19713,71.0,F,2016-10-28,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,14815.0,6575.0
+CVR1116270,$2200.00,Wilmington,DE,New Castle,19809,31.0,M,2016-10-14,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR1116271,$2200.00,Wilmington,DE,New Castle,19807,64.0,M,2016-09-22,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1116272,$2200.00,Smyrna,DE,Kent,19977,24.0,M,2016-10-31,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,14815.0,6575.0
+CVR1116273,$2200.00,Smyrna,DE,Kent,19977,74.0,M,2016-10-31,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,14815.0,6575.0
+CVR1116274,$2200.00,Smyrna,DE,Kent,19977,44.0,F,2016-10-31,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,14815.0,6575.0
+CVR1116275,$2200.00,Millsboro,DE,Sussex,19966,65.0,F,2016-11-01,I.G. Burton Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1116276,$2200.00,Bear,DE,New Castle,19701,47.0,M,2016-08-15,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR1116277,$2200.00,New Castle,DE,New Castle,19720,68.0,M,2016-09-17,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,Yes,14815.0,6575.0
+CVR1116278,$2200.00,Millsboro,DE,Sussex,19966,75.0,M,2016-09-20,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,6575.0
+CVR1116279,$2200.00,Millsboro,DE,Sussex,19966,63.0,M,2016-10-12,Romeo Chevrolet Buick GMC LLC,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1116280,$2200.00,Millsboro,DE,Sussex,19966,50.0,F,2016-10-24,I.G. Burton Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1116281,$2200.00,Wilmington,DE,New Castle,19807,59.0,M,2016-06-09,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR1116282,$2200.00,Port Penn,DE,New Castle,19731,62.0,M,2016-10-31,Willis Chevrolet Buick,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1216283,$2200.00,Smyrna,DE,Kent,19977,59.0,M,2016-10-26,Willis Chevrolet Buick,Plug-in Hybrid,Chevrolet,Volt,2017,No,14815.0,6575.0
+CVR1216284,$2200.00,Rehoboth Beach,DE,Sussex,19971,43.0,M,2016-09-30,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR1216285,$2200.00,Newark,DE,New Castle,19713,47.0,M,2016-09-28,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR1216286,$2200.00,Dover,DE,Kent,19901,36.0,M,2016-10-26,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR1216287,$2200.00,Dover,DE,Kent,19904,26.0,M,2016-09-05,Turnersville Kia,Electric,Kia,Soul EV,2016,Yes,14815.0,5539.0
+CVR1216288,$2200.00,Wilmington,DE,New Castle,19810,37.0,M,2016-07-14,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR1216289,$2200.00,Wilmington,DE,New Castle,19808,28.0,F,2016-10-14,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,14815.0,6575.0
+CVR0116290,$2200.00,Kenton,DE,Kent,19955,,,2016-08-16,I.G. Burton BMW,Plug-in Hybrid,BMW,X5 40E,2016,No,14815.0,6575.0
+CVR0117291,$2200.00,Dover,DE,Kent,19904,,,2016-05-20,Winner Ford,Electric,Ford,Focus Electric,2016,No,14815.0,5539.0
+CVR0117292,$2200.00,Dover,DE,Kent,19904,,,2016-05-20,Winner Ford,Electric,Ford,Focus Electric,2016,No,14815.0,5539.0
+CVR0217293,$2200.00,Wilmington,DE,New Castle,19806,65.0,F,2016-10-20,Audi Wilmington,Plug-in Hybrid,Audi,A3 Sportback e-tron,2017,Yes,14815.0,6575.0
+CVR0317294,$2200.00,Smyrna,DE,Kent,19977,69.0,M,2016-01-25,BMW of Annapolis,Plug-in Hybrid,BMW,X5 40E,2016,No,14815.0,6575.0
+CVR0417295,$2200.00,Middletown,DE,New Castle,19709,30.0,M,2016-09-29,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0417296,$2200.00,Hockessin,DE,New Castle,19707,57.0,M,2016-06-30,Tesla Motors,Electric,Tesla,Model S,2016,No,14815.0,5539.0
+CVR0417297,$2200.00,Wilmington,DE,New Castle,19803,61.0,M,2016-06-04,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR0517298,$2200.00,Wilmington,DE,New Castle,19807,55.0,M,2016-04-23,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR0617299,$2200.00,Wilmington,DE,New Castle,19806,65.0,M,2016-04-11,Tesla Motors,Electric,Tesla,Model X,2016,No,14815.0,5539.0
+CVR0917300,$2200.00,Rehoboth Beach,DE,Sussex,19971,,,2016-08-31,Sun Motor Cars BMW,Plug-in Hybrid,BMW,X5 40E,2016,No,14815.0,6575.0
+BEV111601,$1000.00,New Castle,DE,New Castle,19720,33.0,M,2016-10-11,Tesla Motors,Electric,Tesla,Model S,2016,No,11435.0,5654.0
+BEV121602,$3500.00,Milford,DE,Sussex,19963,59.0,M,2016-11-17,Porter Nissan,Electric,Nissan,Leaf,2016,Yes,11435.0,5654.0
+BEV011703,$1000.00,Lewes,DE,Sussex,19958,30.0,M,2016-12-14,Tesla Motors,Electric,Tesla,Model S,2017,No,11435.0,5654.0
+BEV011704,$1000.00,Wilmington,DE,New Castle,19810,52.0,M,2016-12-23,Tesla Motors,Electric,Tesla,Model X,2016,No,11435.0,5654.0
+BEV011705,$1000.00,Lewes,DE,Sussex,19958,63.0,M,2016-12-22,Tesla Motors,Electric,Tesla,Model X,2016,No,11435.0,5654.0
+BEV011706,$1000.00,Newark,DE,New Castle,19711,31.0,M,2016-12-29,Tesla Motors,Electric,Tesla,Model S,2016,No,11435.0,5654.0
+BEV011707,$3500.00,Camden Wyoming,DE,Kent,19934,46.0,M,2017-01-10,Willis Ford,Electric,Ford,Focus Electric,2016,Yes,11435.0,5654.0
+BEV011708,$1000.00,Middletown,DE,New Castle,19709,40.0,M,2016-12-30,Tesla Motors,Electric,Tesla,S90D,2016,No,11435.0,5654.0
+BEV011709,$1000.00,Wilmington,DE,New Castle,19807,60.0,M,2016-12-31,Tesla Motors,Electric,Tesla,Model S,2016,No,11435.0,5654.0
+BEV011710,$1000.00,Smyrna,DE,New Castle,19977,56.0,F,2016-12-31,Tesla Motors,Electric,Tesla,Model S,2016,no,11435.0,5654.0
+BEV021711,$1000.00,Greenville,DE,New Castle,19807,69.0,M,2016-12-27,Tesla Motors,Electric,Tesla,Model S,2016,No,11435.0,5654.0
+BEV021712,$1000.00,Wilmington,DE,New Castle,19806,62.0,M,2016-12-26,Tesla Motors,Electric,Tesla,Model S,2016,No,11435.0,5654.0
+BEV021713,$3500.00,Wilmington,DE,New Castle,19803,47.0,M,2016-12-03,Sheridan Nissan,Electric,Nissan,Leaf,2016,No,11435.0,5654.0
+BEV021714,$1000.00,Middletown,DE,New Castle,19709,46.0,M,2016-12-21,Tesla Motors,Electric,Tesla,Model S,2016,No,11435.0,5654.0
+BEV021715,$1000.00,Camden Wyoming,DE,Kent,19934,50.0,M,2017-02-01,Tesla Motors,Electric,Tesla,Model S,2017,No,11435.0,5654.0
+BEV021716,$1000.00,Wilmington,DE,New Castle,19808,65.0,M,2016-12-17,Tesla Motors,Electric,Tesla,Model X,2016,No,11435.0,5654.0
+BEV021717,$1000.00,Lewes,DE,Sussex,19958,,,2016-12-14,Tesla Motors,Electric,Tesla,Model X,2016,No,11435.0,5654.0
+BEV021718,$1000.00,Lewes,DE,Sussex,19958,,,2016-11-30,Tesla Motors,Electric,Tesla,Model X,2016,No,11435.0,5654.0
+BEV021719,$3500.00,Hockessin,DE,New Castle,19707,65.0,M,2017-01-09,Porter Nissan,Electric,Nissan,Leaf,2017,Yes,11435.0,5645.0
+BEV021720,$3500.00,Seaford,DE,Sussex,19973,36.0,M,2016-12-15,Pohanka of Salisbury ,Electric,Nissan,Leaf,2016,No,11435.0,5645.0
+BEV031721,$1000.00,Selbyville,DE,Sussex,19975,53.0,M,2016-12-23,Tesla Motors,Electric,Tesla,Model X,2016,No,11435.0,5645.0
+BEV031722,$3500.00,Hockessin,DE,New Castle,19707,72.0,F,2017-02-04,Sheridan Ford ,Electric,Ford,Focus Electric,2016,No,11435.0,5645.0
+BEV031723,$1000.00,Wilmington, DE,New Castle,19807,,M,2017-02-08,Tesla Motors,Electric,Tesla,Model X,2017,No,11435.0,5645.0
+BEV041724,$1000.00,Hockessin,DE,New Castle,19707,67.0,M,2017-03-14,Tesla Motors,Electric,Tesla,Model S,2017,No,11435.0,5645.0
+BEV041725,$3500.00,Newark,DE,New Castle,19711,29.0,M,2017-03-31,Willis Chevrolet Buick,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV041726,$1000.00,Middletown,DE,New Castle,19709,45.0,F,2016-12-20,Tesla Motors,Electric,Tesla,Model S,2016,No,11435.0,5645.0
+BEV041727,$3500.00,Wilmington,DE,New Castle,19808,58.0,F,2017-03-04,Porter Nissan,Electric,Nissan,Leaf,2017,No,11435.0,5645.0
+BEV041728,$3500.00,Lewes,DE,Sussex,19958,65.0,M,2017-04-03,Williams Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV041729,$1000.00,Newark,DE,New Castle,19711,72.0,M,2017-04-07,Tesla Motors,Electric,Tesla,Model S,2017,No,11435.0,5645.0
+BEV051730,$3500.00,Newark,DE,New Castle,19711,59.0,M,2017-04-29,Diver Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV051731,$3500.00,Wilmington,DE,New Castle,19808,,M,2017-04-26,Porter Nissan,Electric,Nissan,Leaf,2017,Yes,11435.0,5645.0
+BEV051732,$1000.00,Hockessin,DE,New Castle,19707,53.0,M,2017-05-10,Tesla Motors,Electric,Tesla,Model S,2017,No,11435.0,5645.0
+BEV051733,$3500.00,Dover,DE,Kent,19901,71.0,M,2017-05-23,Williams Chevrolet,Electric,Chevrolet,Volt,2017,No,11435.0,5645.0
+BEV051734,$3500.00,Lewes,DE,Sussex,19958,57.0,M,2017-05-23,I.G. Burton Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV061735,$3500.00,Bethany Beach,DE,Sussex,19930,67.0,M,2017-05-22,I.G. Burton Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV061736,$3500.00,Camden,DE,Kent,19934,35.0,F,2017-04-01,Williams Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV061737,$3500.00,Wilmington,DE,New Castle,19807,54.0,F,2017-06-12,Sheridan Nissan,Electric,Nissan,Leaf,2017,No,11435.0,5645.0
+BEV061738,$1000.00,Wilmington,DE,New Castle,19808,34.0,M,2017-06-09,Tesla Motors,Electric,Tesla,Model S,2016,No,11435.0,5645.0
+BEV061739,$1000.00,Dover,DE,Kent,19901,40.0,F,2017-06-19,Tesla Motors,Electric,Tesla,Model X,2016,No,11435.0,5645.0
+BEV061740,$3500.00,Townsend,DE,New Castle,19734,54.0,F,2017-06-13,Porter Nissan,Electric,Nissan,Leaf,2017,Yes,11435.0,5645.0
+BEV061741,$3500.00,Newark,DE,New Castle,19711,41.0,M,2017-06-20,Porter Nissan,Electric,Nissan,Leaf,2017,No,11435.0,5645.0
+BEV061742,$3500.00,Ocean View,DE,Sussex,19970,64.0,M,2017-06-23,I.G. Burton Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV071743,$3500.00,Newark,DE,New Castle,19711,32.0,M,2017-04-19,Williams Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV071744,$1000.00,Dover,DE,Kent,19904,40.0,M,2017-06-21,Tesla Motors,Electric,Tesla,Model S,2017,No,11435.0,5645.0
+BEV071745,$3500.00,New Castle,DE,New Castle,19720,52.0,M,2017-06-23,Sheridan Nissan,Electric,Nissan,Leaf,2017,No,11435.0,5645.0
+BEV071746,$3500.00,Newark,DE,New Castle,19713,62.0,M,2017-06-19,Sheridan Ford,Electric,Ford,Focus Electric,2016,Yes,11435.0,5645.0
+BEV071747,$3500.00,Wilmington,DE,New Castle,19802,44.0,F,2017-07-10,Sheridan Ford,Electric,Ford,Focus Electric,2017,Yes,11435.0,5645.0
+BEV071748,$3500.00,Wilmington,DE,New Castle,19802,43.0,M,2017-07-18,Sheridan Ford ,Electric,Ford,Focus Electric,2017,Yes,11435.0,5645.0
+BEV071749,$3500.00,Delaware City,DE,New Castle,19720,92.0,M,2017-05-11,Willis Chevrolet Buick,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV071750,$1000.00,Lewes,DE,Sussex,19958,,,2017-06-22,Tesla Motors ,Electric,Tesla,Model S,2017,No,11435.0,5645.0
+BEV071751,$3500.00,Newark,DE,New Castle,19702,82.0,M,2017-07-25,Nucar Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV081752,$3500.00,Millsboro,DE,Sussex,19966,89.0,M,2017-07-31,I.G. Burton Lewes Automall,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV081753,$3500.00,Middletown,DE,New Castle,19709,65.0,F,2017-08-11,Willis Chevrolet Buick,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV081754,$1000.00,Wilmington,DE,New Castle,19803,47.0,M,2017-03-08,Tesla Motors,Electric,Tesla,Model S,2017,No,11435.0,5645.0
+BEV091755,$3500.00,Wilmington,DE,New Castle,19810,,,2017-07-20,Diver Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV091756,$3500.00,Wilmington,DE,New Castle,19806,56.0,M,2017-06-30,Diver Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV091757,$3500.00,Middletown,DE,New Castle,19709,57.0,F,2017-07-08,Diver Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV091758,$3500.00,Wilmington,DE,New Castle,19807,54.0,F,2017-07-10,Diver Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV091759,$3500.00,Newark,DE,New Castle,19711,67.0,F,2017-08-31,Diver Chevrolet,Electric,Chevrolet,Bolt,2017,No,11435.0,5645.0
+BEV091760,$1000.00,Wilmington,DE,New Castle,19803,48.0,M,2016-12-16,Tesla Motors,Electric,Tesla,Model S,2017,No,11435.0,5645.0
+BEV091761,$3500.00,Hockessin,DE,New Castle,19707,51.0,M,2017-09-20,Reedman Toll Nissan,Electric,Nissan,Leaf,2016,No,11435.0,5645.0
+PHEV111601,$1500.00,Newark,DE,New Castle,19713,36.0,F,2016-11-09,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV111602,$1500.00,Dover,DE,Kent,19901,54.0,M,2016-11-11,Miller Brothers,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV111603,$1000.00,Wilmington,DE,New Castle,19806,65.0,M,2016-11-02,Union Park BMW,Plug-in Hybrid,BMW,X5 40E,2017,No,11435.0,6866.0
+PHEV111604,$1500.00,Milford,DE,Sussex,19963,53.0,F,2016-11-04,I.G. Burton BMW,Plug-in Hybrid,BMW,X5 40E,2017,No,11435.0,6866.0
+PHEV111605,$1500.00,Townsend,DE,New Castle,19734,39.0,M,2016-11-11,Faulkner Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV111606,$1500.00,Dover,DE,Kent,19904,70.0,M,2016-11-17,Willis Chevrolet Buick,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV111607,$1500.00,Middletown,DE,New Castle,19709,74.0,M,2016-11-17,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV111608,$1500.00,Bridgeville,DE,Sussex,19933,,F,2016-11-15,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV111609,$1500.00,Felton,DE,Sussex,19943,23.0,F,2016-11-26,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV111610,$1500.00,Townsend,DE,New Castle,19734,31.0,M,2016-11-28,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV111611,$1500.00,Wilmington,DE,New Castle,19808,66.0,F,2016-11-16,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV121612,$1500.00,Wilmington,DE,New Castle,19809,30.0,F,2016-11-30,Otto's BMW,Plug-in Hybrid,BMW,X5 40E,2017,No,11435.0,6866.0
+PHEV121613,$1500.00,Dover,DE,Kent,19904,74.0,M,2016-12-01,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV121614,$1500.00,Dover,DE,Kent,19904,38.0,M,2016-12-01,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,11435.0,6866.0
+PHEV121615,$1500.00,Wilmington,DE,New Castle,19803,60.0,F,2016-11-11,AUDI Wilmington,Plug-in Hybrid,Audi,A3 Sportback e-tron,2017,No,11435.0,6866.0
+PHEV121616,$1500.00,Bear,DE,New Castle,19701,80.0,F,2016-12-03,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV121617,$1500.00,Smyrna,DE,New Castle,19977,25.0,M,2016-12-06,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV121618,$1500.00,Clayton,DE,New Castle,19938,38.0,M,2016-12-05,Willis Chevrolet Buick,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV121619,$1500.00,Wilmington,DE,New Castle,19805,38.0,F,2016-12-02,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV121620,$1500.00,Wilmington,DE,New Castle,19802,31.0,M,2016-12-09,Team Toyota of Glen Mills,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV121621,$1500.00,Newark,DE,New Castle,19702,78.0,F,2016-11-16,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV121622,$1500.00,Newark,DE,New Castle,19711,40.0,M,2016-12-10,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV121623,$1500.00,Lewes,DE,Sussex,19958,33.0,M,2016-12-12,I.G. Burton Lewes Automall,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV121624,$1500.00,Rehoboth Beach,DE,Sussex,19971,56.0,M,2016-12-16,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV011725,$1500.00,Townsend,DE,New Castle,19734,48.0,M,2016-12-30,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV011726,$1500.00,Dover,DE,Kent,19904,63.0,M,2016-12-31,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV011727,$1500.00,Millsboro,DE,Sussex,19966,69.0,M,2016-12-27,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV011728,$1500.00,Middletown,DE,New Castle,19709,58.0,F,2016-12-29,Price Toyota,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+LPG051701,$1350.00,Dover,DE,Kent,19901,,,2017-01-09,AutoPort Inc ,Propane (bi-fuel),Ford,F150,2017,No,,
+PHEV011729,$1500.00,Dover,DE,Kent,19904,45.0,M,2016-12-29,Annapolis Hyundai,Plug-in Hybrid,Hyundai,Sonata,2017,No,11435.0,6866.0
+PHEV011730,$1500.00,Newark,DE,New Castle,19702,49.0,M,2017-01-03,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV011731,$1500.00,Newark,DE,New Castle,19702,33.0,M,2017-01-10,Elkton Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,11435.0,6866.0
+PHEV011732,$1500.00,Newark,DE,New Castle,19711,67.0,M,2016-12-29,Toyota World,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV011733,$1500.00,Milton,DE,Sussex,19968,,M,2016-12-30,I.G. Burton Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV011734,$1500.00,Wilmington,DE,New Castle,19804,31.0,M,2017-01-11,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV011735,$1500.00,Newark,DE,New Castle,19711,50.0,M,2016-12-26,Toyota of Turnersville,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV011736,$1500.00,Hockessin,DE,New Castle,19707,52.0,M,2016-12-10,Newark Toyota World,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV011737,$1500.00,Middletown,DE,New Castle,19709,77.0,M,2016-12-27,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV011738,$1500.00,Wilmington,DE,New Castle,19805,26.0,M,2016-12-12,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,Yes,11435.0,6866.0
+PHEV011739,$1500.00,Wilmington,DE,New Castle,19808,70.0,F,2017-01-21,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV011740,$1500.00,Millsboro,DE,Sussex,19966,36.0,M,2016-12-27,College Park Honda,Plug-in Hybrid,Hyundai,Sonata,2017,No,11435.0,6866.0
+PHEV011741,$1500.00,Wilmington,DE,New Castle,19803,39.0,F,2017-01-12,Team Toyota of Glen Mills,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV011742,$1500.00,Lewes,DE,Sussex,19958,76.0,M,2016-12-30,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,No,11435.0,6866.0
+PHEV011743,$1500.00,Dover,DE,Kent,19904,67.0,M,2017-01-18,Koons Easton Toyota,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV011744,$1500.00,Magnolia,DE,Kent,19962,36.0,F,2017-01-24,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV021745,$1000.00,Felton,DE,Sussex,19943,49.0,M,2014-01-31,I.G. Burton BMW,Plug-in Hybrid,BMW,330C,2017,Yes,11435.0,6866.0
+PHEV021746,$1000.00,Townsend,DE,New Castle,19734,38.0,M,2017-01-29,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,No,11435.0,6866.0
+PHEV021747,$1500.00,Dagsboro,DE,Sussex,19939,73.0,F,2017-01-31,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,No,11435.0,6866.0
+PHEV021748,$1500.00,Ocean View,DE,Sussex,19970,72.0,M,2017-01-30,Heritage Chevrolet-Buick Inc,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV021749,$1500.00,Wilmington,DE,New Castle,19803,44.0,M,2016-12-31,Burlington Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV021750,$1500.00,Middletown,DE,New Castle,19709,32.0,M,2016-11-30,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV021751,$1500.00,Wilmington,DE,New Castle,19803,48.0,F,2017-01-29,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV021752,$1500.00,Wilmington,DE,New Castle,19810,27.0,M,2016-12-13,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV021753,$1500.00,Bear,DE,New Castle,19701,62.0,M,2017-01-31,Williams Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV021754,$1500.00,Dover,DE,Kent,19904,72.0,F,2017-02-21,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV031755,$1500.00,Townsend,DE,New Castle,19734,27.0,F,2017-02-16,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV031756,$1500.00,Wilmington,DE,New Castle,19809,33.0,M,2016-12-22,Team Toyota of Glen Mills,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV031757,$1500.00,Newark,DE,New Castle,19702,32.0,M,2017-02-25,Heritage Hyundai ,Plug-in Hybrid,Hyundai,Sonata,2017,No,11435.0,6866.0
+PHEV031758,$1500.00,Millsboro,DE,Sussex,19966,50.0,F,2017-02-25,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,No,11435.0,6866.0
+PHEV031759,$1500.00,Wilmington,DE,New Castle,19803,74.0,M,2017-02-16,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV031760,$1500.00,Wilmington,DE,New Castle,19809,55.0,F,2017-02-07,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,Yes,11435.0,6866.0
+PHEV031761,$1500.00,Millsboro,DE,Sussex,19966,51.0,M,2017-02-28,Pohanka Toyota of Salisbury ,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV031762,$1000.00,Newark,DE,New Castle,19711,50.0,M,2017-03-01,Porsche Delaware,Plug-in Hybrid,Porsche,Cayenne S Hybrid,2016,No,11435.0,6866.0
+PHEV031763,$1500.00,Newark,DE,New Castle,19702,54.0,M,2017-02-04,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV031764,$1500.00,Middletown,DE,New Castle,19709,46.0,M,2017-02-10,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV031765,$1500.00,Wilmington,DE,New Castle,19806,53.0,M,2017-03-04,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV031766,$1500.00,Wilmington,DE,New Castle,19808,65.0,M,2017-03-03,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV031767,$1500.00,Wilmington,DE,New Castle,19809,31.0,M,2017-03-09,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,No,11435.0,6866.0
+PHEV031768,$1500.00,Wilmington,DE,New Castle,19803,42.0,M,2017-03-15,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV031769,$1500.00,Wilmington,DE,New Castle,19803,39.0,F,2017-03-11,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,No,11435.0,6866.0
+PHEV031770,$1500.00,Millsboro,DE,Sussex,19966,62.0,F,2017-03-04,Pohanka Automotive Group ,Plug-in Hybrid,Toyota,Prius Prime,2017,Yes,11435.0,6866.0
+PHEV031771,$1500.00,Dagsboro,DE,Sussex,19939,57.0,F,2016-12-15,Pohanka TM Inc,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV031772,$1500.00,Millsboro,DE,Sussex,19966,59.0,F,2017-03-18,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV031773,$1500.00,Camden,DE,Kent,19934,58.0,M,2017-02-11,Ray Skillmans Discount Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2015,No,11435.0,6866.0
+PHEV031774,$1500.00,Wilmington,DE,New Castle,19805,43.0,M,2017-03-24,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV031775,$1500.00,Georgetown,DE,Sussex,19947,66.0,M,2017-03-17,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV041776,$1500.00,Wilmington,DE,New Castle,19803,62.0,F,2017-03-04,Westchester Toyota,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV041777,$1500.00,New Castle,DE,New Castle,19720,74.0,M,2017-03-23,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV041778,$1500.00,Wilmington,DE,New Castle,19803,48.0,M,2017-01-25,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV041779,$1500.00,Middletown,DE,New Castle,19709,54.0,F,2017-03-25,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,11435.0,6866.0
+PHEV041780,$1500.00,Newark,DE,New Castle,19711,62.0,M,2017-03-31,Newark Toyota World,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV041781,$1500.00,New Castle,DE,New Castle,19720,44.0,F,2017-04-04,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV041782,$1500.00,Wilmington,DE,New Castle,19806,56.0,M,2017-04-07,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2016,Yes,11435.0,6866.0
+PHEV041783,$1500.00,Wilmington,DE,New Castle,19808,47.0,M,2017-04-07,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV041784,$1500.00,Millsboro,DE,Sussex,19966,67.0,M,2017-04-05,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV041785,$1500.00,Smyrna,DE,Kent,19977,53.0,M,2017-04-08,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,No,11435.0,6866.0
+PHEV041786,$1500.00,Clayton,DE,Kent,19938,56.0,F,2017-04-13,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,No,11435.0,6866.0
+PHEV041787,$1500.00,Bridgeville,DE,Sussex,19933,59.0,M,2017-03-18,Pohanka Automotive Group ,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV041788,$1500.00,Newark,DE,New Castle,19711,50.0,M,2017-04-17,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV041789,$1500.00,Wilmington,DE,New Castle,19809,78.0,F,2017-04-18,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV041790,$1500.00,Townsend,DE,New Castle,19734,72.0,M,2017-04-26,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV051791,$1500.00,Rehoboth Beach,DE,Sussex,19971,57.0,M,2017-03-18,I.G. Burton Lewes Automall,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV051792,$1500.00,New Castle,DE,New Castle,19720,31.0,M,2017-04-17,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,Yes,11435.0,6866.0
+PHEV051793,$1500.00,Newark,DE,New Castle,19713,33.0,M,2017-04-22,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV051794,$1500.00,Newark,DE,New Castle,19702,40.0,M,2017-04-08,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,Yes,11435.0,6866.0
+PHEV051795,$1500.00,Wilmington,DE,New Castle,19803,54.0,M,2017-04-26,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV051796,$1500.00,Newark,DE,New Castle,19808,42.0,F,2017-05-05,Willis Ford,Plug-in Hybrid,Ford,Volt,2017,Yes,11435.0,6866.0
+PHEV051797,$1500.00,Wilmington,DE,New Castle,19803,75.0,M,2017-03-29,Price Toyota,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV051798,$1500.00,Camden,DE,Kent,19934,76.0,M,2017-04-17,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV051799,$1500.00,Bear,DE,New Castle,19701,35.0,M,2017-03-31,BMW of Springfield,Plug-in Hybrid,BMW,i3 Rex,2017,Yes,11435.0,6866.0
+PHEV0517100,$1500.00,Newark,DE,New Castle,19702,51.0,F,2017-02-22,Team Toyota of Glen Mills,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV0517101,$1500.00,Middletown,DE,New Castle,19709,55.0,F,2017-12-08,NuCar Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV0517102,$1500.00,New Castle,DE,New Castle,19720,31.0,M,2017-05-26,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0617103,$1000.00,Newark,DE,New Castle,19702,29.0,M,2017-05-31,Porsche Delaware,Plug-in Hybrid,Porsche,Cayenne S Hybrid,2017,Yes,11435.0,6866.0
+PHEV0617104,$1500.00,Newark,DE,New Castle,19711,45.0,M,2017-06-07,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,11435.0,6866.0
+PHEV0617105,$1500.00,Bethany Beach,DE,Sussex,19930,75.0,M,2017-05-31,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,11435.0,6866.0
+PHEV0617106,$1500.00,Georgetown,DE,Sussex,19947,40.0,M,2017-04-04,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0617107,$1500.00,Bridgeville,DE,Sussex,19933,71.0,M,2017-04-22,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0617108,$1500.00,Millsboro,DE,Sussex,19966,73.0,F,2017-05-26,Boulevard Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0617109,$1500.00,Newark,DE,New Castle,19711,39.0,F,2017-05-04,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,11435.0,6866.0
+PHEV0617110,$1500.00,Wilmington,DE,New Castle,19805,65.0,M,2017-06-07,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,11435.0,6866.0
+PHEV0617111,$1000.00,Seaford,DE,Sussex,19973,54.0,M,2017-03-25,Mercedes Benz of Salisbury,Plug-in Hybrid,Mercedes-Benz,GLE 550,2017,No,11435.0,6866.0
+PHEV0617112,$1500.00,Millsboro,DE,Sussex,19966,21.0,F,2017-02-28,Boulevard Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0617113,$1500.00,Newark,DE,New Castle,19711,,F,2017-06-23,Newark Toyota World,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV0617114,$1500.00,Wilmington,DE,New Castle,19805,52.0,F,2017-06-19,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0617115,$1500.00,Dover,DE,Kent,19901,68.0,F,2017-06-29,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0717116,$1500.00,Wilmington,DE,New Castle,19809,47.0,M,2017-06-30,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0717117,$1500.00,Seaford,DE,Sussex,19973,44.0,F,2017-07-08,Preston Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0717118,$1500.00,Middletown,DE,New Castle,19709,81.0,F,2017-07-05,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,No,11435.0,6866.0
+PHEV0717119,$1000.00,Millsboro,DE,New Castle,19966,69.0,M,2017-07-15,I.G. Burton BMW,Plug-in Hybrid,BMW,X5 40E,2017,No,11435.0,6866.0
+PHEV0717120,$1500.00,Newark,DE,New Castle,19711,72.0,M,2017-07-10,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0717121,$1500.00,Laurel,DE,Sussex,19956,43.0,M,2017-03-10,I.G. Burton Lewes Automall,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV0717122,$1500.00,Middletown,DE,New Castle,19709,51.0,F,2017-07-06,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0717123,$1500.00,Felton,DE,Kent,19943,60.0,F,2017-07-22,Koons Easton Toyota,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV0717124,$1500.00,Dover,DE,Kent,19901,67.0,M,2017-07-11,Koons Easton Toyota,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV0717125,$1500.00,Newark,DE,New Castle,19711,30.0,M,2017-07-24,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0817126,$1500.00,Middletown,DE,New Castle,19709,69.0,M,2017-08-03,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0817127,$1500.00,Wilmington,DE,New Castle,19804,20.0,F,2017-07-24,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0817128,$1500.00,Bear,DE,New Castle,19701,68.0,F,2017-07-31,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0817129,$1500.00,Newark,DE,New Castle,19711,77.0,M,2017-08-03,Elkton Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0817130,$1500.00,Wilmington,DE,New Castle,19808,44.0,M,2017-07-31,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV0817131,$1500.00,Wilmington,DE,New Castle,19805,31.0,F,2017-04-15,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0817132,$1500.00,Bear,DE,New Castle,19701,75.0,F,2017-04-17,Sheridan Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0817133,$1500.00,Bear,DE,New Castle,19701,61.0,F,2017-08-16,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0817134,$1500.00,Lewes,DE,Sussex,19958,56.0,M,2017-08-03,Hertrick Toyota Scion,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV0817135,$1500.00,Lincoln,DE,Sussex,19960,40.0,M,2017-08-16,I.G. Burton BMW,Plug-in Hybrid,BMW,330e,2017,Yes,11435.0,6866.0
+PHEV0817136,$1500.00,Townsend,DE,New Castle,19734,25.0,M,2017-08-26,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0817137,$1500.00,Dover,DE,Kent,19901,73.0,M,2017-08-29,Willis Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0817138,$1500.00,Middletown,DE,New Castle,19709,55.0,M,2017-07-26,Porter Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV0917139,$1500.00,Lewes,DE,Sussex,19958,74.0,M,2017-08-29,I.G. Burton BMW,Plug-in Hybrid,BMW,530E,2018,No,11435.0,6866.0
+PHEV0917140,$1500.00,Bear,DE,New Castle,19701,45.0,M,2017-07-05,Sloane Toyota of Malvern,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV0917141,$1000.00,Milford,DE,Sussex,19963,63.0,M,2017-08-22,I.G. Burton BMW,Plug-in Hybrid,BMW,X5 40E,2017,No,11435.0,6866.0
+PHEV0917142,$1000.00,Wilmington,DE,New Castle,19810,47.0,M,2016-12-22,Cherry Hill Volvo,Plug-in Hybrid,Volvo,XC90,2016,No,11435.0,6866.0
+PHEV0917143,$1500.00,Wilmington,DE,New Castle,19807,58.0,M,2017-09-08,Diver Chevrolet,Plug-in Hybrid,Chevrolet,Volt,2017,No,11435.0,6866.0
+PHEV0917144,$1500.00,Middletown,DE,New Castle,19709,60.0,M,2017-08-08,Price Toyota,Plug-in Hybrid,Toyota,Prius Prime,2017,No,11435.0,6866.0
+PHEV0917145,$1500.00,Middletown,DE,New Castle,19709,46.0,M,2017-08-31,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0917146,$1500.00,Newark,DE,New Castle,19711,76.0,F,2017-09-04,Sheridan Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+PHEV0917147,$1500.00,Wilmington,DE,New Castle,19806,,,2017-09-11,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0917148,$1500.00,Newark,DE,New Castle,19711,49.0,M,2017-09-16,Porter Ford,Plug-in Hybrid,Ford,C-Max Energi,2017,Yes,11435.0,6866.0
+PHEV0917149,$1500.00,Middletown,DE,New Castle,19709,53.0,M,2017-09-18,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,11435.0,6866.0
+PHEV0917150,$1000.00,Wilmington,DE,New Castle,19807,59.0,F,2017-06-14,Otto's BMW,Plug-in Hybrid,BMW,X5 40E,2017,No,11435.0,6866.0
+PHEV0917151,$1500.00,Smyrna,DE,Kent,19977,70.0,M,2017-09-21,Willis Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,No,11435.0,6866.0
+PHEV0917152,$1500.00,Middletown,DE,New Castle,19709,50.0,M,2017-09-22,Porter Ford,Plug-in Hybrid,Ford,Fusion Energi,2017,Yes,11435.0,6866.0
+LPG051702,$1350.00,Dover,DE,Kent,19902,,,2017-03-01,AutoPort Inc ,Propane (bi-fuel),Ford,F150,2017,No,,
+CVR081511,$1100.00,Middletown,DE,New Castle,19709,,,2015-07-30,Bayshore Ford,Propane,Ford,F450,2015,No,,
+CVR081512,$1100.00,Middletown,DE,New Castle,19710,,,2015-07-30,Bayshore Ford,Propane,Ford,F450,2016,No,,
+CVR0616147,$1100.00,Dover,DE,Kent,19901,,,2016-04-20,Coach and Equipment/ Coach Bus Sales,Propane,Ford,E-450 Phoenix,2016,No,,
+CVR0616148,$1100.00,Dover,DE,Kent,19901,,,2016-04-20,Coach and Equipment/ Coach Bus Sales,Propane,Ford,E-450 Phoenix,2016,No,,
+CVR0616149,$1100.00,Dover,DE,Kent,19901,,,2016-04-20,Coach and Equipment/ Coach Bus Sales,Propane,Ford,E-450 Phoenix,2016,No,,
+CVR0616150,$1100.00,Dover,DE,Kent,19901,,,2016-04-20,Coach and Equipment/ Coach Bus Sales,Propane,Ford,E-450 Phoenix,2016,No,,
+CVR0616151,$1100.00,Dover,DE,Kent,19901,,,2016-04-20,Coach and Equipment/ Coach Bus Sales,Propane,Ford,E-450 Phoenix,2016,No,,
